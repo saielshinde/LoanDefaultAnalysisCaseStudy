@@ -60,4 +60,5 @@ The analysis identifies critical factors like loan grade, income, and DTI as str
 
 ---
 
-*Developed using Python and Google Colab.*
+Contact
+Created by [@saielshinde - feel free to contact me!
